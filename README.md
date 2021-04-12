@@ -1,3 +1,30 @@
+**How to start up the project**
+
+## NPM
+
+In order to start up this project, simply open up your terminal
+
+Then, you need to type npm install and this will install your node_modules folder
+
+Once that is done, you can simply type gatsby develop
+
+Then, click on the http://localhost:8000/ link to open up the website. You need to press cmd + click in order to open the link
+
+## Yarn
+
+If you are using Yarn, you can just type in yarn in your terminal
+
+Then, once it finishes loading, you can type gatsby develop
+
+If you run into any issues with Yarn, I've attached this article below showing how to migrate from npm to yarn and the different commands you can use to start up the project.
+
+There is more information about migrating from npm to yarn here
+
+In order to open the link, press (cmd + click)
+[Yarn link](https://classic.yarnpkg.com/en/docs/migrating-from-npm)
+
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
